@@ -1,7 +1,7 @@
 {
   "name": "Iván Finanzas",
   "short_name": "Iván Finanzas",
-  "id": "./?app=ivan-finanzas",
+  "id": "/Finanzas-v8/",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
